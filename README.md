@@ -1,5 +1,3 @@
 # move_mouse_auto
 Program that move the user's mouse to a defined spot. Only works on Windows machine
-# How to use it
-Download the python folder on your machine.
-Then, use the python.exe program to run the "mouve_mouse.py" file.
+This program is useful in cases where you do not want your computer to shut down or if you have Teams or anything like it, and you don't want your status to be absent/offline/afk, so that your co-workers won't know that you are not working for real. 
